@@ -169,3 +169,27 @@ margin: auto 0;
         top: -270px;
     }
 }
+.footer-text{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #fff;
+}
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.footer-list{
+    display: flex;
+    gap: 40px;
+}
+.link{
+    color: #fff;
+}
+.footer{
+    margin-top: 100px;
+}
